@@ -6,6 +6,7 @@ docker-compose.yml
 Jenkinsfile
 pom.xml
 *.md
+*.csv
 tmp
 host-m2-repo
 .m2
